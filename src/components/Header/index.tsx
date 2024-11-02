@@ -70,6 +70,7 @@ export const Header = () => {
         <a href="https://discord.gg/FJppc7dsuC">
         <FaDiscord />
         </a>
+
         <a href="https://www.instagram.com/newvalleygg/">
         <FaInstagram />
         </a>
