@@ -17,7 +17,7 @@ export const About = () => {
           <p>
             Nós Possuimos Diversos Sistemas Para Contribuir Com Seu Roleplay,
             Desde Missões, Fugas e até roubos e diversas profissões, aqui você pode ser oque quiser!
-            Literamente.
+            Literalmente!
           </p>
           <p>
             {' '}
