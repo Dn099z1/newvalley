@@ -71,7 +71,7 @@ export const Header = () => {
         <FaDiscord />
         </a>
 
-        <a href="https://www.instagram.com/newvalleygg/">
+        <a href="https://www.instagram.com/newvalleygg/" className={styles.iconSpacing}>
         <FaInstagram />
         </a>
 
