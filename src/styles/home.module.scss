@@ -1,0 +1,67 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+
+  width: 100%;
+
+  > div > header, footer {
+    width: 100%;
+    max-width: var(--main-width);
+  }
+
+  section {
+    display: flex;
+    width: 100%;
+    
+    > div {
+      margin: 0 auto;
+      width: 100%;
+      max-width: var(--main-width);
+    }
+  }
+
+  @media(max-width: 1200px) {
+    > div > header {
+      width: 100%;
+      padding: 1rem 2rem 0;
+    }
+
+    section {
+      padding: 0 1rem;
+    }
+  }
+
+  @media(max-width: 650px) {
+    section {
+      padding: 1rem;
+    }
+  }
+}
+
+.background {
+  flex-direction: column;
+  align-items: center;
+}
+
+.go-top {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  
+  width: 34px;
+  height: 34px;
+  border: 0;
+  border-radius: 0.375rem;
+  background: var(--secondary);
+
+  display: flex;
+
+  svg {
+    margin: auto;
+    color: #080A0B;
+    width: 24px;
+    height: 24px;
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Sistema",
+    "description": "Windows 10 64-bit "
+  },
+  {
+    "name": "Processador",
+    "description": "CPU Intel Core i5 3470 @ 3.2GHz / AMD X8 FX-8350 @ 4GHz"
+  },
+  {
+    "name": "Memoria",
+    "description": "8 GB RAM / 12GB RAM"
+  },
+  {
+    "name": "Armazenamento",
+    "description": "120 GB (Se já Tiver GTA 5, desconsidere)"
+  },
+  {
+    "name": "Placa De Video",
+    "description": "NVIDIA GTX 660 2GB / AMD HD 7870 2GB."
+  }
+]
