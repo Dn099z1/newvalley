@@ -7,7 +7,7 @@ export const Newsletter = () => {
 
   const handleRedirect = (e: React.FormEvent) => {
     e.preventDefault(); 
-    window.open('https://youtube.com', '_blank');
+    window.open('https://docs.google.com/forms/d/e/1FAIpQLSexn9WBSTsm-u0tu6kY6yMfVzfJjCK9A4jBIQM3eMdRGEiJaA/viewform?usp=sf_link', '_blank');
   };
 
   return (
