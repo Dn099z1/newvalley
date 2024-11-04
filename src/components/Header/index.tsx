@@ -21,7 +21,7 @@ export const Header = () => {
 
   return (
     <header className={styles.container} id="header">
-      <img src="logo.png" alt="Logo New Group" />
+      <img src="https://media.discordapp.net/attachments/1287220134150144131/1302137089738936380/valley_sem_fundo.png?ex=672a50ea&is=6728ff6a&hm=adfe236ae9f2bd4edf71d5bf8267793509533fb06948868d99ad8afad87d4fb9&=&format=webp&quality=lossless&width=559&height=559" alt="Logo New Group" />
 
       <nav className={styles.navigation}>
         <ul className={activeToggle ? styles.active : ''}>
